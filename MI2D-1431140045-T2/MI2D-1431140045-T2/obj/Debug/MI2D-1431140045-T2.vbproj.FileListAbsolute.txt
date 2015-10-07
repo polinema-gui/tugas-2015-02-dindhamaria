@@ -1,0 +1,10 @@
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\bin\Debug\MI2D-1431140045-T2.exe.config
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\bin\Debug\MI2D-1431140045-T2.exe
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\bin\Debug\MI2D-1431140045-T2.pdb
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\bin\Debug\MI2D-1431140045-T2.xml
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\obj\Debug\MI2D_1431140045_T2.Form1.resources
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\obj\Debug\MI2D_1431140045_T2.Resources.resources
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\obj\Debug\MI2D-1431140045-T2.vbproj.GenerateResource.Cache
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\obj\Debug\MI2D-1431140045-T2.exe
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\obj\Debug\MI2D-1431140045-T2.xml
+C:\Users\dindha\Documents\Visual Studio 2012\Projects\MI2D-1431140045-T2\MI2D-1431140045-T2\obj\Debug\MI2D-1431140045-T2.pdb
